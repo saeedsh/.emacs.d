@@ -15,7 +15,7 @@ Furthermore, some packages are necessary to be installed.
 
 In Ubuntu:
 ```
-sudo apt-get install emacs-goodies-el 
+sudo apt-get install emacs-goodies-el auctex
 ```
 
 ---
