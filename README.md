@@ -11,7 +11,7 @@ cd ~
 git clone https://github.com/saeedsh/.emacs.d
 ```
 
-Some packages are necessary to be installed.
+Furthermore, some packages are necessary to be installed.
 
 In Ubuntu:
 ```
